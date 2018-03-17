@@ -18,17 +18,17 @@ users
 
 
 ### Features
-User log in
+USER LOG IN
 Users will have to create an account and log in to be able to book a class.
-Class schedule
+CLASS SCHEDULE
 A calender view with current week is displayed where users can view a brief summary of classes along with 
 instructor ,how many spots are left and option to book the class.
-Class information
+CLASS INFORMATION
 A detailed description of each class along with fitness level expected for each class membership packages etc 
 are described here.
-Meet instuctors and testimonials
+MEET INSRUCTORS AND TESTIMONAILS
 More about instructors and user testimonails
-Gallery 
+GALLERY
 Short preview of class(videos and pictures)
 
 
