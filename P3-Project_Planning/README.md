@@ -11,10 +11,10 @@ For this assignment, you'll create some initial plans for your project.
 (Include at least 3 wireframes here, adding images or files to your the repository as necessary. Format them as a bulleted/unordered list with links to the files.)
 
 
-![WF1](/C:/Users/neethu joseph/source/repos/liftoff-assignments2/wireframes/IMG_1361.jpg)
-![WF2](/C:\Users\neethu joseph\source\repos\liftoff-assignments2\wireframes\IMG_1362.jpg)
-![WF3](/C:\Users\neethu joseph\source\repos\liftoff-assignments2\wireframes\IMG_1363.jpg)
-![WF4](/C:\Users\neethu joseph\source\repos\liftoff-assignments2\wireframes\IMG_1364.jpg)
+![WF1](https://github.com/njoseph5/liftoff-assignments/blob/master/P3-Project_Planning/wireframes/IMG_1361.jpg)
+![WF2](https://github.com/njoseph5/liftoff-assignments/blob/master/P3-Project_Planning/wireframes/IMG_1362.jpg)
+![WF3](https://github.com/njoseph5/liftoff-assignments/blob/master/P3-Project_Planning/wireframes/IMG_1363.jpg)
+![WF4](https://github.com/njoseph5/liftoff-assignments/blob/master/P3-Project_Planning/wireframes/IMG_1364.jpg)
 
 
 
