@@ -9,8 +9,8 @@ For this assignment, you'll create some initial plans for your project.
 ### Wireframes
 
 (Include at least 3 wireframes here, adding images or files to your the repository as necessary. Format them as a bulleted/unordered list with links to the files.)
-
-<img src ="C:\Users\neethu joseph\source\repos\liftoff-assignments2\wireframes\IMG_1361.jpg"/><img src ="C:\Users\neethu joseph\source\repos\liftoff-assignments2\wireframes\IMG_1362.jpg"/><img src ="C:\Users\neethu joseph\source\repos\liftoff-assignments2\wireframes\IMG_1363.jpg"/><img src ="C:\Users\neethu joseph\source\repos\liftoff-assignments2\wireframes\IMG_1364.jpg"/>
+<html>
+<img src ="C:\Users\neethu joseph\source\repos\liftoff-assignments2\wireframes\IMG_1361.jpg"/><img src ="C:\Users\neethu joseph\source\repos\liftoff-assignments2\wireframes\IMG_1362.jpg"/><img src ="C:\Users\neethu joseph\source\repos\liftoff-assignments2\wireframes\IMG_1363.jpg"/><img src ="C:\Users\neethu joseph\source\repos\liftoff-assignments2\wireframes\IMG_1364.jpg"/></html>
 
 
 
