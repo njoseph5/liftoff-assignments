@@ -10,7 +10,7 @@ For this assignment, you'll create some initial plans for your project.
 
 (Include at least 3 wireframes here, adding images or files to your the repository as necessary. Format them as a bulleted/unordered list with links to the files.)
 
-![GitHub Logo](/images/logo.png)
+
 ![WF1](/C:\Users\neethu joseph\source\repos\liftoff-assignments2\wireframes\IMG_1361.jpg)
 ![WF2](/C:\Users\neethu joseph\source\repos\liftoff-assignments2\wireframes\IMG_1362.jpg)
 ![WF3](/C:\Users\neethu joseph\source\repos\liftoff-assignments2\wireframes\IMG_1363.jpg)
